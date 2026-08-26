@@ -5,7 +5,7 @@ The platform offers various digital courses to learners across different countri
 
 The main objective of this project is to use SQL to explore the data and generate meaningful insights that can help management understand business performance and learner behavior.
 
-🎯 Project Objectives
+## Project Objective
 The analysis focuses on
 *Identifying Sales trends
 *Understanding learner purchasing behaviour
